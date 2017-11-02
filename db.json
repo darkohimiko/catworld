@@ -7,5 +7,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "youtubes": [
+    {
+      "id": "AFVij2ECldg",
+      "title": "Xamarin Dev: HTTP Feed JSON/XML + Async Programming ",
+      "subtitle": "CMDev Channel - Android and iOS Programming Tutorial Channel by \nhttp://www.codemobiles.com\n",
+      "avatar_image": "https://yt3.ggpht.com/-rGwDc3a3Xy0/AAAAAAAAAAI/AAAAAAAAAAA/rY9gb6ZZZdM/s100-c-k-no-rj-c0xffffff/photo.jpg",
+      "youtube_image": "http://img.youtube.com/vi/AFVij2ECldg/hqdefault.jpg"
+    },
+    {
+      "id": "h80CWF7feYs",
+      "title": "Xamarin Dev: Image Loading from Internet",
+      "subtitle": "CMDev Channel - Android and iOS Programming Tutorial Channel by \nhttp://www.codemobiles.com\n",
+      "avatar_image": "https://yt3.ggpht.com/-rGwDc3a3Xy0/AAAAAAAAAAI/AAAAAAAAAAA/rY9gb6ZZZdM/s100-c-k-no-rj-c0xffffff/photo.jpg",
+      "youtube_image": "http://img.youtube.com/vi/h80CWF7feYs/hqdefault.jpg"
+    }
+  ]
 }
